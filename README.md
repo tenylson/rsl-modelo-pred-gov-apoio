@@ -24,7 +24,7 @@ Este documento registra, em ordem cronológica, as etapas realizadas no processo
 ## 📌 Etapa 3 – Aplicação dos critérios de seleção
 
   - **Página `qualidade`** → Aplicação dos **critérios de qualidade** definidos no **item 3.3.3 – Critério de Qualidade** do artigo, avaliados pelo **Pesquisador 01**.
-  - **Página `revisão`** → Revisão e exclusão após **comparação dos mesmos critérios** com a avaliação do **Pesquisador 02**.
+  - **Página `revisão`** → Revisão e exclusão após **comparação dos mesmos critérios** com a avaliação do **Pesquisadora 02**.
 
 - **Resultado:** Total consolidado de **45 artigos**.
 
@@ -34,5 +34,5 @@ Este documento registra, em ordem cronológica, as etapas realizadas no processo
 ## 📌 Observações finais
 - Todas as etapas foram registradas de forma incremental, garantindo **rastreabilidade** das exclusões e ajustes.
 - Os arquivos mantêm a nomenclatura padronizada para facilitar futuras consultas e verificações;
-- Pesquisador 01: Luciano Tenylson Nogueira Costa;
-- Pesquiadora 02: Renata dos Santos Rodrigues Idalgo;
+- **Pesquisador 01**: Luciano Tenylson Nogueira Costa;
+- **Pesquiadora 02**: Renata dos Santos Rodrigues Idalgo;
