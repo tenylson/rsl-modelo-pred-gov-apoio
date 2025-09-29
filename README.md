@@ -5,7 +5,7 @@ Este documento registra, em ordem cronológica, as etapas realizadas no processo
 ---
 
 ## 📌 Etapa 1 – Consolidação inicial dos artigos
-- **Arquivo:** `artigos-lista-unificada.xlsx`
+- **Arquivo:** [artigos-lista-unificada.xlsx](artigos-lista-unificada.xlsx)
 - **Atividades realizadas:**
   - Arquivo exportado do **Parsifal**.
   - Identificados **47 duplicados** (Parsifal + Zotero).
@@ -15,7 +15,7 @@ Este documento registra, em ordem cronológica, as etapas realizadas no processo
 ---
 
 ## 📌 Etapa 2 – Aplicação dos critérios de seleção
-- **Arquivo:** `artigos-criterios-selecao.xlsx`
+- **Arquivo:** [artigos-criterios-selecao.xlsx](artigos-criterios-selecao.xlsx))
 - **Atividades realizadas:**
   - **Página `q1 e q2`** → Exclusão de artigos publicados em journals classificados em **quartil 1 e 2**.
 - **Resultado:** Total consolidado de **100 artigos**.
