@@ -33,4 +33,6 @@ Este documento registra, em ordem cronológica, as etapas realizadas no processo
 
 ## 📌 Observações finais
 - Todas as etapas foram registradas de forma incremental, garantindo **rastreabilidade** das exclusões e ajustes.
-- Os arquivos mantêm a nomenclatura padronizada para facilitar futuras consultas e verificações.
+- Os arquivos mantêm a nomenclatura padronizada para facilitar futuras consultas e verificações;
+- Pesquisador 01: Luciano Tenylson Nogueira Costa;
+- Pesquiadora 02: Renata dos Santos Rodrigues Idalgo;
