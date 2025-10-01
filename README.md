@@ -33,13 +33,13 @@ Este documento registra, em ordem cronológica, as etapas realizadas no processo
 
 **Arquivo** [estatisticos-trapalhos-aprovados.xlsx](estatisticos-trapalhos-aprovados.xlsx) 
 
-Esta planilha contém os dados que deram origem aos gráficos apresentados na Revisão Sistemática de Literatura, bem como nas seguintes páginas:
+Esta planilha contém os dados que deram origem aos gráficos apresentados na Revisão Sistemática de Literatura, com as seguintes páginas:
 
 - Modelos e Algoritmos
 
 - Aplicações Governamentais
 
-- Tabela de Aplicações Governamentais
+- Tabela de Aplicações Governamentais(Apêndice)
 
 - Aplicações Governamentais por Categorias
 
