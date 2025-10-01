@@ -15,7 +15,7 @@ Este documento registra, em ordem cronológica, as etapas realizadas no processo
 ---
 
 ## 📌 Etapa 2 – Aplicação dos critérios de seleção
-- **Arquivo:** [artigos-criterios-selecao.xlsx](artigos-criterios-selecao.xlsx))
+- **Arquivo:** [artigos-criterios-selecao.xlsx](artigos-criterios-selecao.xlsx)
 - **Atividades realizadas:**
   - **Página `q1 e q2`** → Exclusão de artigos publicados em journals classificados em **quartil 1 e 2**.
 - **Resultado:** Total consolidado de **100 artigos**.
@@ -29,7 +29,21 @@ Este documento registra, em ordem cronológica, as etapas realizadas no processo
 - **Resultado:** Total consolidado de **45 artigos**.
 
 ---
+## 📌 Extração de dados
 
+**Arquivo** [estatisticos-trapalhos-aprovados.xlsx](estatisticos-trapalhos-aprovados.xlsx) 
+
+Esta planilha contém os dados que deram origem aos gráficos apresentados na Revisão Sistemática de Literatura, bem como nas seguintes páginas:
+
+- Modelos e Algoritmos
+
+- Aplicações Governamentais
+
+- Tabela de Aplicações Governamentais
+
+- Aplicações Governamentais por Categorias
+
+---
 
 ## 📌 Observações finais
 - Todas as etapas foram registradas de forma incremental, garantindo **rastreabilidade** das exclusões e ajustes.
