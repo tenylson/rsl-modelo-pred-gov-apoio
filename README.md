@@ -29,7 +29,16 @@ Este documento registra, em ordem cronológica, as etapas realizadas no processo
 - **Resultado:** Total consolidado de **45 artigos**.
 
 ---
-## 📌 Extração de dados
+
+## 📌 Observações finais
+- Todas as etapas foram registradas de forma incremental, garantindo **rastreabilidade** das exclusões e ajustes.
+- Os arquivos mantêm a nomenclatura padronizada para facilitar futuras consultas e verificações;
+- **Pesquisador 01**: Luciano Tenylson Nogueira Costa;
+- **Pesquiadora 02**: Renata dos Santos Rodrigues Idalgo;
+
+
+---
+# Extração de dados
 
 **Arquivo** [estatisticos-trapalhos-aprovados.xlsx](estatisticos-trapalhos-aprovados.xlsx) 
 
@@ -42,11 +51,3 @@ Esta planilha contém os dados que deram origem aos gráficos apresentados na Re
 - Tabela de Aplicações Governamentais(Apêndice)
 
 - Aplicações Governamentais por Categorias
-
----
-
-## 📌 Observações finais
-- Todas as etapas foram registradas de forma incremental, garantindo **rastreabilidade** das exclusões e ajustes.
-- Os arquivos mantêm a nomenclatura padronizada para facilitar futuras consultas e verificações;
-- **Pesquisador 01**: Luciano Tenylson Nogueira Costa;
-- **Pesquiadora 02**: Renata dos Santos Rodrigues Idalgo;
